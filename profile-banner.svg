@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396" role="img" aria-labelledby="title desc">
+<title id="title">Matheus Rosas de Carvalho — Cybersecurity and DevSecOps</title>
+<desc id="desc">Navy banner with teal geometric lines. Computer Science, AppSec, Cloud Security and Automation.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0A1424"/><stop offset="1" stop-color="#142C42"/></linearGradient></defs>
+<rect width="1584" height="396" fill="url(#bg)"/>
+<g fill="none" stroke="#244456" stroke-width="2">
+<path d="M0 68H228L314 154H378M0 130H180L250 200H378M0 330H226L326 230H378"/>
+<circle cx="267" cy="198" r="98"/><circle cx="267" cy="198" r="126"/>
+<path d="M1330 0V72L1430 172H1584M1420 0V48L1510 138H1584M1450 396V322L1520 252H1584"/>
+</g>
+<g fill="#46D8BB"><circle cx="378" cy="154" r="5"/><circle cx="378" cy="200" r="5"/><circle cx="378" cy="230" r="5"/></g>
+<rect x="438" y="65" width="58" height="5" rx="2" fill="#46D8BB"/>
+<text x="438" y="115" fill="#AFBDC9" font-family="Segoe UI,Arial,sans-serif" font-size="25" letter-spacing="3">MATHEUS ROSAS DE CARVALHO</text>
+<text x="434" y="188" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="700">CYBERSECURITY</text>
+<text x="436" y="250" fill="#46D8BB" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="600">&amp; DevSecOps</text>
+<text x="438" y="304" fill="#D2DEE6" font-family="Segoe UI,Arial,sans-serif" font-size="23">AppSec  ·  Cloud Security  ·  QA &amp; Automation</text>
+<text x="438" y="350" fill="#8EA6B7" font-family="Segoe UI,Arial,sans-serif" font-size="20">Computer Science student  /  Building through practice</text>
+</svg>
